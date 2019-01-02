@@ -1,0 +1,8 @@
+virtualenv
+ipython
+flake8
+flask
+flask_restful
+psycopg2==2.7.4
+chromedriver-binary
+python-dotenv
